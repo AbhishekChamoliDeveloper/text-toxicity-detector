@@ -1,6 +1,6 @@
 {
   "name": "text-toxicity-detector",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This Package can detect how much toxicity persent in your text and return you toxicity Percentage in text, toxic words used in text & list of toxic word uses in the given text.",
   "main": "textToxicityDetector.js",
   "directories": {
@@ -20,12 +20,22 @@
     "text",
     "toxicity",
     "toxic",
-    "toxic-detector"
+    "toxic-detector",
+    "text toxicity detection",
+    "detect text toxicity",
+    "content toxicity detection",
+    "npm",
+    "text",
+    "toxicity",
+    "detection"
   ],
   "author": "Abhishek Chamoli",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AbhishekChamoliDeveloper/text-toxicity-detector/issues"
   },
-  "homepage": "https://github.com/AbhishekChamoliDeveloper/text-toxicity-detector#readme"
+  "homepage": "https://github.com/AbhishekChamoliDeveloper/text-toxicity-detector#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
 }
